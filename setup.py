@@ -4,16 +4,16 @@ with open("README.md", "r", encoding="utf8") as fh:
     long_description = fh.read()
 
 setup(
-    name='beibo',
+    name='StockerX',
     version='0.1.3',
-    description='🤖 Predict the stock market with AI 用AI预测股票市场',
+    description='🤖 Predict the stock market with AI ',
     py_modules=['beibo'],
     package_dir={'': 'src'},
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/ssantoshp/Beibo',
-    author="Santosh Passoubady",
-    author_email="santoshpassoubady@gmail.com",
+    url='https://github.com/manavcodaty/StockerX',
+    author="Manav Codaty",
+    author_email="manav.codaty@gmail.com",
     license='MIT',
     install_requires=[
         'darts',
