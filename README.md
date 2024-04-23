@@ -130,7 +130,7 @@ You contributions will be reviewed, potentially modified, and hopefully merged i
 
 ## Contact
 
-You are welcome to contact us by email at **santoshpassoubady@gmail.com** or in Beibo's [discussion space](https://github.com/ssantoshp/Beibo/discussions)
+You are welcome to contact us by email at **manavcodaty@gmail.com**
 
 ## License
 
