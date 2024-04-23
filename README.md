@@ -22,7 +22,7 @@
   
 **Beibo** is a **Python** library that uses several **AI prediction models** to predict **stocks returns** over a defined period of time. 
 
-It was firstly introduced in one of my previous package called [**Empyrial**](https://github.com/ssantoshp/Empyrial). 
+This is used in one of my other projects linked here -> [**StockMax**](https://github.com/manavcodaty/StockMax). 
   
 _Disclaimer: Information is provided 'as is' and solely for informational purposes, not for trading purposes or advice._
 
