@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
-Name: beibo
+Name: StockerX
 Version: 0.1.3
-Summary: 🤖 Predict the stock market with AI 用AI预测股票市场
-Home-page: https://github.com/ssantoshp/Beibo
+Summary: 🤖 Predict the stock market with AI 
+Home-page: https://github.com/manavcodaty/StockerX
 Author: Santosh Passoubady
-Author-email: santoshpassoubady@gmail.com
+Author-email: manav.codaty@gmail.com
 License: MIT
 Description-Content-Type: text/markdown
 License-File: LICENSE
