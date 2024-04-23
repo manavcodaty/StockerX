@@ -1,11 +1,9 @@
-# Beibo, predict the stock market 💸
+# StockerX, predict the stock market 💸
 
 <br/>
 <br/>
 
-<p align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/61618641/147752368-7488930a-49d7-42ae-b14f-50555c5a721e.png" alt="Beibo logo")
-</p>
+
 
  <br/>
   
